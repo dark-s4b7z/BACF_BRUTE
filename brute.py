@@ -21,7 +21,7 @@ print("""
                                                      
 """)
 
-def fb_brute_ANONYMOUS _SAINAD ():
+def fb_brute_ANONYMOUS_SAINAD ():
 
     email = input("Enter Facebook username/email/phone > ")
     wordlist = input("Enter path to wordlist file > ")
